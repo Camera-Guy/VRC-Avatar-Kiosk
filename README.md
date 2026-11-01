@@ -6,7 +6,7 @@ Make a Secret Gist .txt (if you dont know what that is search it up)
 
 Add an Avi (Or a bunch)
 
-Click the raw Button
+Click the Raw Button
 
 Edit the URL to remove the text between raw/ and /gist name.
 
