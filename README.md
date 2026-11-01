@@ -14,7 +14,7 @@ How To enter Avis into the System. All Avis are listed in Order not sorted, fold
 
 Exsample
 
-Halo/ODST/Alpha Nine/Old/Dare : avtr_************************************ | An old Relic.
+Halo/ODST/Alpha Nine/Old/Dare : avtr_**** | An old Relic.
 
 Avatars that only appear for a certain person can be done like
 
