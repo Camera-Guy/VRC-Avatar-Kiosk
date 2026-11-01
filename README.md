@@ -18,7 +18,7 @@ All Avis are listed in Order not sorted, Folders work correctly, Descriptions ar
 
 Exsample
 
-Halo/ODST/Alpha Nine/Old/Dare : avtr_**** | An old Relic.
+Halo/ODST/Alpha Nine/Old/Dare : avtr_XXXX | An old Relic.
 
 Avatars that only appear for a certain person can be done like
 
@@ -26,4 +26,4 @@ Custom/_usr (User Name Not ID)/(Folder Path Optional)/(Avatar Name) : (Avatar ID
 
 Exsample
 
-Custom/_usr Camera-Guy/R6/Master Chief : avtr_**** | This game looks potato compared to launch
+Custom/_usr Camera-Guy/R6/Master Chief : avtr_XXXX | This game looks potato compared to launch
