@@ -12,7 +12,7 @@ Edit the URL to remove the text between raw/ and /gist name.
 
 If done correctly you can hit enter and view that URL like nothing happened, This is to remove the version so you can update it without having to re enter the URL to the System.
 
-All Avis are listed in Order not sorted, Folders work correctly, Descriptions are custom because you cant read that from a Avi Pedestal (They are not requred), The PFP of the Avi Displayed is the Pedestal itself, Follow formatting bellow and you should be good, DM me for help on discord. cameraguy
+All Avis are listed in Order not sorted, Folders work correctly, Descriptions are custom because you cant read that from a Avi Pedestal (They are not requred), The PFP of the Avi Displayed is the Pedestal itself.
 
 (Folder Path Optional)/(Avatar Name) : (Avatar ID) | (Description)
 
@@ -27,3 +27,5 @@ Custom/_usr (User Name Not ID)/(Folder Path Optional)/(Avatar Name) : (Avatar ID
 Exsample
 
 Custom/_usr Camera-Guy/R6/Master Chief : avtr_XXXX | This game looks potato compared to launch
+
+Follow this formatting and you should be good, DM me for help on discord. cameraguy
